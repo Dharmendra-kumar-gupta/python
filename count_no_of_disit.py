@@ -7,7 +7,7 @@ while(Number > 0):
     s=s+Count
 print("\n Number of Digits in a Given Number = " ,Count)
 
-#print(count)
-print("sum:"),
-print(s)
+
+
+
 
